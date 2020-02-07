@@ -1,4 +1,3 @@
-package singletonpatternsimpleexample;
 /**
  *
  * @author Amantha - https://www.linkedin.com/in/amanthaa/
