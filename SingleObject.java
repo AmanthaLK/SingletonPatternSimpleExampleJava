@@ -18,8 +18,5 @@ public class SingleObject {
     
     public void display(){
         System.out.println("Singleton Example");
-    }
-    
-    
-    
+    }   
 }
